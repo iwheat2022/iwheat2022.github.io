@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ruochen Wang | Laboratory of wheat abiotic stress tolerance</title>
+    <link>/author/ruochen-wang/</link>
+      <atom:link href="/author/ruochen-wang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ruochen Wang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2022</copyright><lastBuildDate>Fri, 17 May 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu632e353c6447b34a07d412b7f995aeea_7708_512x512_fill_lanczos_center_2.png</url>
+      <title>Ruochen Wang</title>
+      <link>/author/ruochen-wang/</link>
+    </image>
+    
+    <item>
+      <title>Brassinosteroid Regulates Root Development with Highly Redundant Genes in Hexaploid Wheat</title>
+      <link>/publication/paper14/</link>
+      <pubDate>Fri, 17 May 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/paper14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Massive expansion and differential evolution of small heat shock proteins with wheat (Triticum aestivum L.) polyploidization</title>
+      <link>/publication/paper6/</link>
+      <pubDate>Wed, 31 May 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/paper6/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
