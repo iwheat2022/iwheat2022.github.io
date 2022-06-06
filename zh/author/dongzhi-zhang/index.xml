@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dongzhi Zhang | 小麦非生物胁迫耐受机理实验室</title>
+    <link>/zh/author/dongzhi-zhang/</link>
+      <atom:link href="/zh/author/dongzhi-zhang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Dongzhi Zhang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>zh</language><copyright>2022</copyright><lastBuildDate>Fri, 11 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu632e353c6447b34a07d412b7f995aeea_7708_512x512_fill_lanczos_center_2.png</url>
+      <title>Dongzhi Zhang</title>
+      <link>/zh/author/dongzhi-zhang/</link>
+    </image>
+    
+    <item>
+      <title>BRS1 mediates plant redox regulation and cold responses</title>
+      <link>/zh/publication/paper18/</link>
+      <pubDate>Fri, 11 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>/zh/publication/paper18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Brassinosteroid Regulates Root Development with Highly Redundant Genes in Hexaploid Wheat</title>
+      <link>/zh/publication/paper14/</link>
+      <pubDate>Fri, 17 May 2019 00:00:00 +0000</pubDate>
+      <guid>/zh/publication/paper14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BRS1 Function in Facilitating Lateral Root Emergence in Arabidopsis</title>
+      <link>/zh/publication/paper8/</link>
+      <pubDate>Tue, 18 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>/zh/publication/paper8/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

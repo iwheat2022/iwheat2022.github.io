@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>小麦非生物胁迫耐受机理实验室</title>
+    <link>/zh/students/</link>
+      <atom:link href="/zh/students/index.xml" rel="self" type="application/rss+xml" />
+    <description>小麦非生物胁迫耐受机理实验室</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>zh</language><copyright>2022</copyright>
+    <image>
+      <url>/images/icon_hu632e353c6447b34a07d412b7f995aeea_7708_512x512_fill_lanczos_center_2.png</url>
+      <title>小麦非生物胁迫耐受机理实验室</title>
+      <link>/zh/students/</link>
+    </image>
+    
+  </channel>
+</rss>

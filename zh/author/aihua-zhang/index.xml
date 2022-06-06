@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Aihua Zhang | 小麦非生物胁迫耐受机理实验室</title>
+    <link>/zh/author/aihua-zhang/</link>
+      <atom:link href="/zh/author/aihua-zhang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Aihua Zhang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>zh</language><copyright>2022</copyright><lastBuildDate>Fri, 27 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu632e353c6447b34a07d412b7f995aeea_7708_512x512_fill_lanczos_center_2.png</url>
+      <title>Aihua Zhang</title>
+      <link>/zh/author/aihua-zhang/</link>
+    </image>
+    
+    <item>
+      <title>Alternative Splicing Diversified the Heat Response and Evolutionary Strategy of Conserved Heat Shock Protein 90s in Hexaploid Wheat (Triticum aestivum L.)</title>
+      <link>/zh/publication/paper16/</link>
+      <pubDate>Fri, 27 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>/zh/publication/paper16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Brassinosteroid Regulates Root Development with Highly Redundant Genes in Hexaploid Wheat</title>
+      <link>/zh/publication/paper14/</link>
+      <pubDate>Fri, 17 May 2019 00:00:00 +0000</pubDate>
+      <guid>/zh/publication/paper14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Heat stress in filling stage confers distinct effect on starch granules formation in different thermotolerant wheat accessions</title>
+      <link>/zh/publication/paper10/</link>
+      <pubDate>Sat, 03 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>/zh/publication/paper10/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
