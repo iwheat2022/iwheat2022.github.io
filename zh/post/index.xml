@@ -5,9 +5,9 @@
     <link>/zh/post/</link>
       <atom:link href="/zh/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>zh</language><copyright>2022</copyright><lastBuildDate>Sat, 13 Jun 2020 00:00:00 +0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>zh</language><copyright>2022</copyright><lastBuildDate>Sat, 13 Jun 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu632e353c6447b34a07d412b7f995aeea_7708_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_hu632e353c6447b34a07d412b7f995aeea_7708_512x512_fill_lanczos_center_3.png</url>
       <title>Posts</title>
       <link>/zh/post/</link>
     </image>
@@ -15,7 +15,7 @@
     <item>
       <title>Migrating my website to Hugo &#43; Academic &#43; ox-hugo</title>
       <link>/zh/post/migrating/</link>
-      <pubDate>Sat, 13 Jun 2020 00:00:00 +0800</pubDate>
+      <pubDate>Sat, 13 Jun 2020 00:00:00 +0000</pubDate>
       <guid>/zh/post/migrating/</guid>
       <description>&lt;p&gt;Being stuck at home during the pandemic, as miserable as it is, actually
 helps me to redesign my working environment. One of the many outcomes
@@ -92,7 +92,8 @@ know is Hugo&amp;rsquo;s
 important is the &lt;code&gt;content&lt;/code&gt; folder, which contains all the Markdown
 files needed to generate the website. Here is a sample structure for
 the &lt;code&gt;content&lt;/code&gt; folder from Hugo&amp;rsquo;s official documentation (the base URL
-for this site is &lt;a href=&#34;https://example.com/&#34;&gt;https://example.com/&lt;/a&gt;):&lt;/p&gt;
+for this site is 
+&lt;a href=&#34;https://example.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://example.com/&lt;/a&gt;):&lt;/p&gt;
 &lt;pre&gt;&lt;code class=&#34;language-text&#34;&gt;.
 └── content
     └── about
@@ -154,7 +155,8 @@ preview the website by running&lt;/p&gt;
 &lt;/code&gt;&lt;/pre&gt;
 &lt;p&gt;from the website directory. This builds the website and creates a
 local web server to
-host it. It generates a link (the default is &lt;a href=&#34;http://localhost:1313/&#34;&gt;http://localhost:1313/&lt;/a&gt;)
+host it. It generates a link (the default is 
+&lt;a href=&#34;http://localhost:1313/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://localhost:1313/&lt;/a&gt;)
 which can be pasted into a web browser. In the background, the hugo
 server also detects any change to the content and updates the website
 automatically.&lt;/p&gt;
